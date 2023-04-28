@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    background: linear-gradient(125deg,#c3d1cd,#736f8d );
+    background-image:url(./img/pexels-ruvim-3560044.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.box{
+    background: linear-gradient(125deg,#79cae05f,#192c4f );
+    box-shadow: 20px 20px 30px rgb(50, 45, 35); ;
+    color:white;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin:120px;
+    left: 350px;
+}
+.weather img{
+    width: 100px;
+}
+.text{
+    margin: 10px;
+}
+
